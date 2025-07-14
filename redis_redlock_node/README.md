@@ -2,7 +2,7 @@
 
 This project demonstrates a basic implementation of distributed locks using the Redlock algorithm with three Redis clients in Node.js.
 
-**Author:** Sergio Fernández Rincón <sergiofdezrc@gmail.com>
+**Author:** Sergio Fernández Rincón  
 **Version:** 1.0  
 **Course:** Distributed Operating Systems  
 **Degree:** Master's in Computer Engineering  
@@ -115,6 +115,6 @@ Locks a resource, extends the TTL while working, and releases the lock.
 - **Module not found:** Run `npm install` to install dependencies.
 
 ## References
-- [Redlock Algorithm](https://redis.io/docs/reference/patterns/distributed-locks/)
+- [Redlock Algorithm](https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/#the-redlock-algorithm)
 - [redlock npm package](https://www.npmjs.com/package/redlock)
 - [Node Redis](https://www.npmjs.com/package/redis)
