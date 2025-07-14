@@ -1,0 +1,23 @@
+{
+    "name": "redis_redlock_php",
+    "description": "Redis distributed locks in PHP",
+    "authors": [
+        {
+            "name": "Sergio Fernández",
+            "email": "sergiofdezrc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~5.4",
+        "ext-redis": "~2.2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "RedLock\\": "src/"
+        }
+    }
+}
