@@ -1,5 +1,19 @@
 # Redis Redlock Java Sample
 
+## Table of Contents
+- [Overview](#overview)
+- [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+  - [Start a Redis Server](#1-start-a-redis-server)
+  - [Check Maven Dependencies](#2-check-maven-dependencies)
+  - [Build the Project](#3-build-the-project)
+  - [Run the Example](#4-run-the-example)
+  - [Output](#5-output)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
+
+## Overview
 This project demonstrates how to connect to a Redis server and use the Redlock distributed locking algorithm in Java using Redisson.
 
 **Author:** Sergio Fernández Rincón  

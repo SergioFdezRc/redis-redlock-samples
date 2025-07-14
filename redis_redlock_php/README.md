@@ -1,5 +1,15 @@
 # Redis Redlock PHP Sample
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage Example](#usage-example)
+- [Running Tests](#running-tests)
+- [Project Structure](#project-structure)
+
+## Overview
 A modern PHP implementation of the [Redlock algorithm](https://redis.io/topics/distlock) for distributed locks using Redis. This library allows you to safely acquire and release distributed locks across multiple Redis instances, following best practices for reliability and performance.
 
 **Author:** Sergio Fernández Rincón  

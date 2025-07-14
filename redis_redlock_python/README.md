@@ -1,5 +1,14 @@
 # Redis Redlock Python sample
 
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [References](#references)
+
+## Overview
 **Author:** Sergio Fernández Rincón  
 **Version:** 1.0  
 **Course:** Distributed Operating Systems  
